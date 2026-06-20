@@ -1,7 +1,4 @@
 <div align="center">
-
-<img src="https://sketchfab.com/favicon.ico" width="48" height="48" alt="Sketchfab Logo">
-
 # Sketchfab Asset Downloader
 
 **A sleek desktop tool to download 3D models, textures, and animations from Sketchfab — with full material reconstruction.**
